@@ -12,9 +12,4 @@
 ![](https://streak-stats.demolab.com/?user=arnavbhure&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=arnavbhure&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arnavbhure&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
