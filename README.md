@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: City-Link, a full-stack housing and relocation platform designed for university students.<br><br>👯 I’m looking to collaborate on: Open-source MERN stack applications or competitive programming challenges.<br><br>🤝 I’m looking for help with: Advanced PostgreSQL database optimization and backend system design.<br><br>🌱 I’m currently learning: Advanced Data Structures and Algorithms in C++, along with deep dives into semiconductor physics.<br><br>💬 Ask me about: Building scalable web apps with React and Node.js, solving complex algorithmic problems, or analyzing electronic circuits!<br>
+🔭 👯 I’m looking to collaborate on: Open-source MERN stack applications or competitive programming challenges.<br><br>🤝 I’m looking for help with: Advanced PostgreSQL database optimization and backend system design.<br><br>🌱 I’m currently learning: Advanced Data Structures and Algorithms in C++, along with deep dives into semiconductor physics.<br><br>💬 Ask me about: Building scalable web apps with React and Node.js, solving complex algorithmic problems, or analyzing electronic circuits!<br>
 
 
 ## 🌐 Socials:
